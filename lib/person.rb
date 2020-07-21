@@ -17,7 +17,7 @@ class Person
   end
 end
 
-lassie = Dog.new
-lassie.name = "Lassie"
+singer = Person.new
+singer.job = "Singer"
  
-puts lassie.name
+puts singer.job
