@@ -5,14 +5,14 @@ class Person
   end
  
   def name
-    @person_name
+    @name
   end
   
-    def name=(person_name)
-    @this_dogs_name = dogs_name
+    def job=(person_job)
+    @jpb = person_job
   end
  
-  def name
-    @this_dogs_name
+  def job
+    @job
   end
 end
