@@ -17,4 +17,7 @@ class Person
   end
 end
 
-Singer = 
+lassie = Dog.new
+lassie.name = "Lassie"
+ 
+puts lassie.name
